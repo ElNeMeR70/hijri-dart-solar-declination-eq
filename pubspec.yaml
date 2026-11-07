@@ -1,0 +1,5 @@
+name: hijri_dart_solar_declination_eq
+description: "Solar Declination & Equation of Time (Mu'adalat Al-Zaman) Ephemeris"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
